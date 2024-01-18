@@ -1,3 +1,4 @@
 # Learn
 
-Link : [Notion](https://www.notion.so/moz1mozi/4101dc22f66d47b89c3f534cd710879b?pvs=4)
+Link : [객체지향의 사실과 오해](https://www.notion.so/moz1mozi/4101dc22f66d47b89c3f534cd710879b?pvs=4)
+20240118 객체지향의 사실과 오해를 빠르게 훑어보고 키워드들을 뽑아낸 이후 이해가 안된 키워드? 개념?들에 대해 계속 정리중 //사실 빠르게 훑어보지는 않았다
