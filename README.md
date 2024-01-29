@@ -25,3 +25,5 @@ Spring의 개념에 대해 재정리를 하는 시간을 가졌다.
 
 Link : [TCP에 대한 공부](https://www.notion.so/moz1mozi/20240128-3acc040ce23c4e0dac2c30055b777024)
 20240128 tcp에 대한 전체적인 흐름을 알아봤다. 뽑아낸 Keyword들을 이용해 구글링해서 정리하자.
+
+LINK : [JVM에 대한 정리](https://www.notion.so/moz1mozi/20240129-JVM-af466f7600bf4c49956e7d76f719bb24)
