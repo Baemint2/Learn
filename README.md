@@ -27,3 +27,6 @@ Link : [TCP에 대한 공부](https://www.notion.so/moz1mozi/20240128-3acc040ce2
 20240128 tcp에 대한 전체적인 흐름을 알아봤다. 뽑아낸 Keyword들을 이용해 구글링해서 정리하자.
 
 LINK : [JVM에 대한 정리](https://www.notion.so/moz1mozi/20240129-JVM-af466f7600bf4c49956e7d76f719bb24)
+
+LINK : [운영체제 프로세스에 관한 내용](https://www.notion.so/moz1mozi/8e58aba3fb6c403d83a063289b590fee)
+20240129 운영체제 공부 중..
