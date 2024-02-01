@@ -30,3 +30,6 @@ LINK : [JVM에 대한 정리](https://www.notion.so/moz1mozi/20240129-JVM-af466f
 
 LINK : [운영체제 프로세스에 관한 내용](https://www.notion.so/moz1mozi/8e58aba3fb6c403d83a063289b590fee)
 20240129 운영체제 공부 중..
+
+LINK : [추상메서드와 인터페이스의 차이](https://www.notion.so/moz1mozi/c78c1f8654dd4e7b84110c63f9728381)
+20240201
